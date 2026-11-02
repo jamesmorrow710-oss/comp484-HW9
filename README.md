@@ -5,7 +5,7 @@
     - .isInteger checks if a number is integer
     - .toFixed limits the number of values after the decimal
     - .toLocaleString convers a number or date or smth into a string in a certain locales understandable language
-2. 
+2. https://jamesmorrow710-oss.github.io/comp484-HW9/
 3. ./page.png
 4.
 - What part was easiest?
